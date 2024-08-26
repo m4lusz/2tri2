@@ -10,13 +10,13 @@
     --branco: #245f69;
     --laranja: #bbe0f8;
     --azul-degrade: linear-gradient(97.54deg, #0b385a 35.49%, #13649e 165.37%);
-    --fonte-principal: "Comic Sans";
+    --fonte-principal: "Poppins";
     --azul: #0091ff;
 }
 
 body {
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
-    font-size: 16px;
+    font-size: 8px;
     font-weight: 400;
 }
